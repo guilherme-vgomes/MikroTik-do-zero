@@ -7,7 +7,8 @@
 - VPCs e Linux
 
 ## Topologia
-<img width="845" height="707" alt="Image" src="https://github.com/user-attachments/assets/fa236be5-3f9c-44f5-89b1-04d1c9d711ae" />
+<img width="845" height="606" alt="topologia" src="https://github.com/user-attachments/assets/86f0336b-9445-4636-9b3b-18067cd19fea" />
+
 
 ## Objetivos
 1 - Realizar o login padrão da MikroTik (User : admin / Pass : (sem senha por padrão) ).
