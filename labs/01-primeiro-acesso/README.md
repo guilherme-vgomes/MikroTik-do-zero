@@ -15,7 +15,7 @@
 - Colocar uma nova senha para o usuário admin 
 - Verificar o IP que foi recebido via DHCP Cliente 
 - Acessar o roteador via Winbox, através do IP recebido
-- Renomer as interfaces que serão utilizadas no ROTEADOR-3.
-- Colocar um IP na interface para o ROTEADOR-3.
+- Renomer as interfaces que serão utilizadas no ROTEADOR-1.
+- Colocar um IP na interface que vai para o ROTEADOR-3.
 - Criar uma regra de NAT para comunicação com a Internet
 
