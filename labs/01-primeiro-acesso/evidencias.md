@@ -10,4 +10,7 @@
 - Verificar o IP que foi recebido via DHCP Cliente
 <img width="666" height="84" alt="image" src="https://github.com/user-attachments/assets/eec4b52b-0f2d-4df1-8af8-3583ead8020e" />
 
+.
+-  Renomear as interfaces que serão utilizadas no ROTEADOR-1.
+<img width="1119" height="347" alt="image" src="https://github.com/user-attachments/assets/59444d43-4ffa-4739-ba9f-2fe0edaadc45" />
 
