@@ -4,3 +4,4 @@
 
 .
 - Colocar uma nova senha para o usuário admin
+<img width="250" height="48" alt="image" src="https://github.com/user-attachments/assets/31e46903-bda2-4218-9e2a-ea6d974c000f" />
