@@ -6,6 +6,8 @@
 - Colocar uma nova senha para o usuário admin
 <img width="309" height="126" alt="image" src="https://github.com/user-attachments/assets/613e9206-c6d7-4f16-a74a-0858b5feb796" />
 
+.
+- Verificar o IP que foi recebido via DHCP Cliente
 <img width="666" height="84" alt="image" src="https://github.com/user-attachments/assets/eec4b52b-0f2d-4df1-8af8-3583ead8020e" />
 
 
