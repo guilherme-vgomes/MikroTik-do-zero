@@ -14,4 +14,6 @@
 -  Renomear as interfaces que serão utilizadas no ROTEADOR-1.
 <img width="484" height="296" alt="image" src="https://github.com/user-attachments/assets/a5c9720a-fc4f-403d-8aef-b89f0f35fdbb" />
 
+- Colocar um IP na interface que vai para o ROTEADOR-3.
+<img width="800" height="189" alt="image" src="https://github.com/user-attachments/assets/90ce9f16-d16c-4f1e-a758-87283d99f2c9" />
 
