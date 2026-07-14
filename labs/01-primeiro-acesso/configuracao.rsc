@@ -9,10 +9,10 @@
 set ether1 name=ether1-WAN comment="Link de saida para Internet"
 
 /interface/ethernet/
-set ether2 name=ether2-HOSPITAL comment="Rede Hospital"
+set ether3 name=ether3-HOSPITAL comment="Rede Hospital"
 
 /interface/ethernet/
-set ether3 name=ether3-OPERADORA-2 comment="Conexao com a operadora-2"
+set ether4 name=ether4-OPERADORA-2 comment="Conexao com a operadora-2"
 
 ...
 # Colocar um IP na interface que vai para o ROTEADOR-3.
