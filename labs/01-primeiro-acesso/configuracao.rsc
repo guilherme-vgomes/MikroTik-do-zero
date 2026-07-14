@@ -19,4 +19,11 @@ set ether4 name=ether4-OPERADORA-2 comment="Conexao com a operadora-2"
 .
 /ip address
 add address=192.168.0.1/16 interface=ether3-HOSPITAL network=192.168.0.0
+
+...
+# Criar uma regra de NAT para comunicação com a Internet
+.
+/ip firewall nat
+add action=masquerade chain=srcnat out-interface=ether1-WAN
+
 ...
