@@ -12,5 +12,6 @@
 
 .
 -  Renomear as interfaces que serão utilizadas no ROTEADOR-1.
-<img width="1119" height="347" alt="image" src="https://github.com/user-attachments/assets/59444d43-4ffa-4739-ba9f-2fe0edaadc45" />
+<img width="484" height="296" alt="image" src="https://github.com/user-attachments/assets/a5c9720a-fc4f-403d-8aef-b89f0f35fdbb" />
+
 
