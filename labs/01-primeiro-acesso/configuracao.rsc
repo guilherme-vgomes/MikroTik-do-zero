@@ -17,7 +17,6 @@ set ether4 name=ether4-OPERADORA-2 comment="Conexao com a operadora-2"
 ...
 # Colocar um IP na interface que vai para o ROTEADOR-3.
 .
-/ip /address/
-add address=192.168.0.1/16 interface=ether2-HOSPITAL network=192.168.0.0
-
+/ip address
+add address=192.168.0.1/16 interface=ether3-HOSPITAL network=192.168.0.0
 ...
